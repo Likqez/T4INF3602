@@ -1,5 +1,0 @@
-numpy
-matplotlib
-python-constraint~=1.4.0
-ortools
-jupyter

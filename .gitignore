@@ -24,6 +24,7 @@ ipython_config.py
 .idea/misc.xml
 .idea/discord.xml
 .idea/vcs.xml
+.idea/
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
